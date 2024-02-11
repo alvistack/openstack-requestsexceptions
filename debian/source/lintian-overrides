@@ -1,0 +1,5 @@
+python-requestsexceptions source: file-without-copyright-information
+python-requestsexceptions source: no-debian-changes
+python-requestsexceptions source: source-contains-prebuilt-windows-binary
+python-requestsexceptions source: source-is-missing
+python-requestsexceptions source: source-package-encodes-python-version

@@ -3,3 +3,5 @@ ChangeLog
 *.egg-info/
 dist/
 .tox/
+
+.pybuild/
